@@ -4,5 +4,6 @@
   "description": "Split logged content in terminal",
   "main": "src/main.js",
   "private": false,
-  "repository": "546pvp/log-splitter"
+  "repository": "546pvp/log-splitter",
+  "license" : "GNU AGPLv3"
 }
