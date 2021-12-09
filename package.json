@@ -1,0 +1,7 @@
+{
+  "name": "log-splitter",
+  "version": "1.0.0",
+  "description": "Split logged content in terminal",
+  "main": "src/main.js",
+  "private": false
+}
