@@ -1,4 +1,4 @@
-function split(symbol, times) {
+function splits(symbol, times) {
     let itextor = 0
     let czv = ""
     
