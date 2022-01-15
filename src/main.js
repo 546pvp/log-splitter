@@ -1,10 +1,10 @@
 function split(symbol, times) {
-  let srixozals = 0
-  let splitter = ""
-  
-  while (i < times) {
-    splitter += symbol
-    srixozals++
+    let itextor = 0
+    let czv = ""
+    
+    while (itextor < times) {
+      czv += symbol
+      i++
+    }
+    console.log(czv)
   }
-  console.log(splitter)
-}
